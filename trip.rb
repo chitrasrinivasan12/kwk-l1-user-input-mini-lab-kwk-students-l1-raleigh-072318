@@ -1,9 +1,7 @@
 # Code your prompts here!
 
 # First, puts out a string asking where the tourist would like to stay.
-stay = "NYC"
-eat = "pizza"
-nights = "3"
+
 
 puts "Let's plan your trip! Where would you like to stay?"
 
